@@ -1,0 +1,47 @@
+img {
+  height: 70px;
+  width: 500px;
+}
+h2 {
+  font-style: italic;
+  font-size: 40px;
+}
+
+.form-container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(156, 67, 67, 0.1);
+  background-color: #c5daf3;
+}
+
+/* Style for input fields */
+.form-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Style for buttons */
+.button-container button {
+  padding: 8px 15px;
+  border: none;
+  margin: 10px;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.form-button-submit {
+  background-color: #007bff;
+  color: white;
+}
+
+.form-button-reset {
+  background-color: #f44336;
+  color: white;
+  margin-right: 10px;
+}
